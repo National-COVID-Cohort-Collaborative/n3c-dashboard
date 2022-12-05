@@ -20,6 +20,7 @@ WebContent/admin/map.jsp -text
 WebContent/admin/projects.jsp -text
 WebContent/admin/users.jsp -text
 WebContent/caption.jsp -text
+WebContent/collaboration-graph.jsp -text
 WebContent/collaboration.jsp -text
 WebContent/composite.jsp -text
 WebContent/composite/filters.jsp -text
@@ -29,6 +30,7 @@ WebContent/composite/pieChart_local.jsp -text
 WebContent/composite/pieChart_local_legends.jsp -text
 WebContent/composite/simple_grid.jsp -text
 WebContent/composite/simple_grid_legends.jsp -text
+WebContent/contributing-sites.jsp -text
 WebContent/dashboard_descriptions/MedicationsSnapshots.jsp -text
 WebContent/dashboard_descriptions/Paxlovid.jsp -text
 WebContent/dashboard_descriptions/SummaryDataAllAges.jsp -text
@@ -162,6 +164,7 @@ WebContent/index.jsp -text
 WebContent/index2.jsp -text
 WebContent/index3.jsp -text
 WebContent/index3_embedded.jsp -text
+WebContent/institutions.jsp -text
 WebContent/long_covid/data.json -text
 WebContent/long_covid/fig4.jsp -text
 WebContent/long_covid/table1.html -text
